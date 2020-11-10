@@ -1,0 +1,15 @@
+#
+# Dependencies for this project, to compile requirements.txt, run:
+#
+#    pip-compile requirements.in
+#
+black
+flake8
+jupyter
+jupyter-contrib-nbextensions
+pandas
+geopandas
+numpy
+python-docx
+Rtree
+shapely

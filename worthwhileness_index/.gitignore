@@ -1,0 +1,3 @@
+# Ignore R files
+.RData
+.Rhistory
